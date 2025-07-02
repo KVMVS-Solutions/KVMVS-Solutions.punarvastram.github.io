@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "b09f4833042ff8cde130a6401b22f763",
+const RESOURCES = {"flutter_bootstrap.js": "883be6eece271425608a27fa2f437108",
 "version.json": "f066da7d75b8d3ac5bc55d266a08ebfd",
 "index.html": "e0a6676d9c17d7226f469720f64bfc50",
 "/": "e0a6676d9c17d7226f469720f64bfc50",
-"main.dart.js": "ad2edaae0c6e67c9daaef65b52791dae",
+"main.dart.js": "2482ed0ec657104402fcc52f2d2d9b3b",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -22,7 +22,7 @@ const RESOURCES = {"flutter_bootstrap.js": "b09f4833042ff8cde130a6401b22f763",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "825e75415ebd366b740bb49659d7a5c6",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "adcc6899e934727e72830b5fdbf2781e",
-"assets/fonts/MaterialIcons-Regular.otf": "abca90d033514a886baf7a77d6dae0a4",
+"assets/fonts/MaterialIcons-Regular.otf": "8468a17a01d02603ac31be2aa812c4c3",
 "assets/assets/red_lehenga.jpg": "ed3f236761a69438aff67ddc2f0a09a9",
 "assets/assets/saree.jpg": "6bad56e03fb376a423cedc54dfa16df7",
 "assets/assets/lehenga.jpg": "39f0bddf258c5a90f05da7af50989a0c",
