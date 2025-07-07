@@ -1,11 +1,11 @@
 {
-    "name": "punarvastram",
-    "short_name": "punarvastram",
+    "name": "Punarvastram - Premium Ethnic Wear Rental",
+    "short_name": "Punarvastram",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Premium Indian Ethnic Wear Rental Platform. Rent beautiful sarees, lehengas, and traditional attire for your special occasions.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
